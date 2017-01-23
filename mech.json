@@ -1,0 +1,197 @@
+[{
+    "Designation": "Chairperson",
+    "Qualification": "Shock Waves, Applications of Shock Waves, Gas Dynamics, Dynamic behaviour of Materials, Impact Dynamics",
+    "Email": " sr_nagaraja@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/Dr-Nagaraja-S-R.JPG",
+    "Research": "Ph.D, M.Tech",
+    "Name": "Dr. Nagaraja S. R."
+}, {
+    "Designation": "Vice Chairperson",
+    "Qualification": "Composite Materials, Machine Design, Kinematics",
+    "Email": " mv_phanibhushana@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/phanibhushana_0.jpg",
+    "Research": "M.E, BE",
+    "Name": "M. V. Phanibhushana"
+}, {
+    "Designation": "Asso. Professor",
+    "Qualification": "Supply Chain Management, Reverse Logistics, Operations Management",
+    "Email": " t_srinivas@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/srinivas-rao.jpg",
+    "Research": "Ph.D, M.Tech, BE",
+    "Name": "Dr. T. Srinivas Rao"
+}, {
+    "Designation": "Asso. Professor",
+    "Qualification": "Material Science and Metallurgy, Composite Materials, Artificial Neural Networks, Manufacturing Technology, Production Management",
+    "Email": " gb_veeresh@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/veereshkumar.jpg",
+    "Research": "Ph.D, M.Tech",
+    "Name": "Dr. Veeresh Kumar G. B."
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "Computational Fluid Dynamics, Renewable Energy, Nanomaterials",
+    "Email": " s_debjyoti@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/debjyoti-sahu.jpg",
+    "Research": "Ph.D, M.Tech, BE",
+    "Name": "Dr. Debjyoti Sahu"
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "Materials, Cryogenics, Retrogression & Reaging on Aluminium Alloys, Cryogenic treatment on alloys and composites",
+    "Email": " p_mrudula@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/mrudula.jpg",
+    "Research": "MBA, M.Tech, BE",
+    "Name": "Mrudula Prashanth"
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "MMC, CAD/CAM, Operations Research, Powder Metallurgy, Ferrous based Metal Matrix Composites",
+    "Email": " bp_dileep@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/dileep-b-p.jpg",
+    "Research": "M.E, BE",
+    "Name": "Dileep B. P."
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "Nanotechnology, Carbon Nano Fibers, Polymer Nano-composites",
+    "Email": " v_ravikumar@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/ravi-kumar-v.jpg",
+    "Research": "M.E",
+    "Name": "Ravi Kumar V."
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "Heat Transfer, Refrigeration and Air Conditioning, Thermodynamics",
+    "Email": " k_sandeep@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/k_sandeep.jpg",
+    "Research": "M.E, BE",
+    "Name": "Sandeep Koundinya"
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "Internal Combustion (IC) Engines, Alternate Fuels, Compressible Flow.",
+    "Email": " k_vinod@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/vinod_2.jpg",
+    "Research": "M.E",
+    "Name": "Vinod Kotebavi"
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "CAD, Robotics, Simulation, Mechanisms, Multi-body Dynamics",
+    "Email": " rg_chittawadigi@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/rajeevlochana.jpg",
+    "Research": "MS, B-Tech",
+    "Name": "Rajeevlochana G. Chittawadigi"
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "Computational Fluid Dynamics, Heat Transfer",
+    "Email": " j_akhil@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/akhil-j.jpg",
+    "Research": "M.Tech, B-Tech",
+    "Name": "Akhil J."
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "",
+    "Email": " n_braj@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/basavaraj-noolvi.jpg",
+    "Research": "M.Tech, BE",
+    "Name": "Basavaraj Noolvi"
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "Gas Turbines, Heat Transfer, Fluid Mechanics, I.C Engines & Computational Fluid Dynamics",
+    "Email": " b_prakash@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/bhanu-prakash.jpg",
+    "Research": "M.Tech",
+    "Name": "S. Bhanu Prakash"
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "Cryogenic Treatment, Polymer Composites, Advanced Manufacturing Process",
+    "Email": " p_deepthi@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/deepthi.jpg",
+    "Research": "M.Tech, B-Tech",
+    "Name": "Y. P. Deepthi"
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "Heat & Mass Transfer, Computational Fluid Dynamics (CFD), Finite Element Method",
+    "Email": " p_deepthi@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/dineshkumar-l.jpg",
+    "Research": "M.Tech, B-Tech",
+    "Name": "Dineshkumar L."
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "Modification of Combustion Mechanisms in Internal Combustion Engines to Use Alternative Fuels, Using Bio-Fuel in SI Engine and Alteration in Engine Design to Use Bio- Fuels in IC Engines",
+    "Email": " as_divakar@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/divakar-shetty.jpg",
+    "Research": "M.Tech, BE",
+    "Name": "Divakar Shetty A. S."
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "Heat Transfer, Fluid Mechanics, Energy Systems and Shock waves",
+    "Email": " as_divakar@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/prabhudev.jpg",
+    "Research": "M.Tech, B-Tech",
+    "Name": "Prabhudev B. M."
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "CAD/CAM, Manufacturing Science",
+    "Email": " k_prakash@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/prakash-marimuthu.jpg",
+    "Research": "M.Tech",
+    "Name": "Prakash Marimuthu K."
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "Finite Element Methods (FEM), Design Composites & Fracture Mechanics, Vibrations",
+    "Email": " r_pramod@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/pramod.jpg",
+    "Research": "M.Tech",
+    "Name": "R. Pramod"
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "Product Lifecycle Management (PLM), CAD/CAM, Robotics",
+    "Email": " bn_prashanth@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/prashanth-b-n.jpg",
+    "Research": "M.Tech",
+    "Name": "Prashanth B. N."
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "CAD, CAM, Composite Materials, Rapid Prototyping, Robotics, Automobile Engineering",
+    "Email": " kr_ravikiran@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/ravikiran.jpg",
+    "Research": "M.Tech, B-Tech",
+    "Name": "Raghavendra Ravikiran K."
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "Structural Vibration, Elasticity, Hypersonic Flow, Aeroelasticity",
+    "Email": " s_shali@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/shali-s.jpg",
+    "Research": "M.Tech, B-Tech",
+    "Name": "Shali S."
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "Fracture Mechanics, Composites, Concurrent Engineering, Complex Products Development",
+    "Email": " me_shashikumar@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/shashikumar.jpg",
+    "Research": "M.Tech, BE",
+    "Name": "Shashi Kumar M. E."
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "Heat & Mass Transfer, Computational Fluids",
+    "Email": " me_shashikumar@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/sreekanth_0.jpg",
+    "Research": "M.Tech, B-Tech",
+    "Name": "Sreekanth N."
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "Heat Transfer, Fluid Mechanics, Energy Systems and Shock waves",
+    "Email": " me_shashikumar@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/prabhudev.jpg",
+    "Research": "M.Tech, B-Tech",
+    "Name": "Prabhudev B. M."
+}, {
+    "Designation": "Asst. Professor",
+    "Qualification": "Computational Fluid Dynamics, Renewable Energy, Nanomaterials",
+    "Email": " s_debjyoti@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/debjyoti-sahu.jpg",
+    "Research": "Ph.D, M.Tech, BE",
+    "Name": "Dr. Debjyoti Sahu"
+}, {
+    "Designation": "Faculty Associate",
+    "Qualification": "",
+    "Email": " sg_divya@blr.amrita.edu",
+    "Image ": "https://www.amrita.edu/sites/default/files/faculty_images/divya-sharma.jpg",
+    "Research": "BE",
+    "Name": "Divya Sharma S.G."
+}]

@@ -1,0 +1,267 @@
+[{
+    "Names": "Dr. Shikha Tripathis",
+    "Designation": "Chairperson",
+    "Qualification": "Image Compression, Image Watermarking, Digital Signal/Image Processing, Control Algorithms for Robotics, Architectures for Signal & Image Processing, Reconfigurable Architectures for Software Defined Radio (SDR)",
+    "Email": " t_shikha@blr.amrita.edu",
+    "Research": "Ph.D, M.E, B-Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/shikha-tripathi.jpg"
+}, {
+    "Names": "Dr. T. K. Ramesh",
+    "Designation": "Vice Chairperson",
+    "Qualification": "Optical Networks, Digital & Analog Electronics",
+    "Email": " tk_ramesh@blr.amrita.edu",
+    "Research": "Ph.D, MS",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/ramesh_0.jpg"
+}, {
+    "Names": "Dr. R. Karthikeyan",
+    "Designation": "Vice Chairperson",
+    "Qualification": "Process Control, Intelligent Control",
+    "Email": " r_karthikeyan@blr.amrita.edu",
+    "Research": "M.E",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/karthikeyan_0.jpg"
+}, {
+    "Names": "Dr. Dhanesh G. Kurup",
+    "Designation": "Professor",
+    "Qualification": "Modeling and Simulation of Wireless Systems, RF Engineering, Computational Electromagnetics, Signal Processing",
+    "Email": " dg_kurup@blr.amrita.edu",
+    "Research": "Ph.D, M.E, B-Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/dhanesh.jpg"
+}, {
+    "Names": "Dr. N. S. Murty",
+    "Designation": "Professor",
+    "Qualification": "Very-Large-Scale Integration (VLSI) Technology & Design, Green Energy Harvesting",
+    "Email": " ns_murty@blr.amrita.edu",
+    "Research": "Ph.D, MBA",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/murty.jpg"
+}, {
+    "Names": "Dr. Navin Kumar",
+    "Designation": "Asso. Professor",
+    "Qualification": "Wireless, Mobile Communication & Networks, Visible Light Communication, Intelligent Transportation System & Heterogeneous Networks",
+    "Email": " k_navin@blr.amrita.edu",
+    "Research": "Ph.D, M.E",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/navin-kumar.jpg"
+}, {
+    "Names": "Dr. Arpita Thakre",
+    "Designation": "Asst. Professor",
+    "Qualification": "",
+    "Email": " t_arpita@blr.amrita.edu",
+    "Research": "Ph.D, M.Tech, B-Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/arpita.jpg"
+}, {
+    "Names": "Dr. Chithra R.",
+    "Designation": "Asst. Professor",
+    "Qualification": "Mobile Communication, Communication Signal Processing",
+    "Email": " r_chithra@blr.amrita.edu",
+    "Research": "Ph.D",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/dr-chithra-r.jpg"
+}, {
+    "Names": "Dr. Kaustav Bhowmick",
+    "Designation": "Asst. Professor",
+    "Qualification": "Photonics, RF, Microwave",
+    "Email": " k_bhowmick@blr.amrita.edu",
+    "Research": "Ph.D, MS, B-Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/dr-kaustav-bhowmick.jpg"
+}, {
+    "Names": "Dr. Srinivasa Reddy K.",
+    "Designation": "Asst. Professor",
+    "Qualification": "VLSI Signal Processing Architectures, Residue Number System, Optimization Algorithms for Digital Signal Processing Applications",
+    "Email": " k_srinivasareddy@blr.amrita.edu",
+    "Research": "Ph.D",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/dr-srinivasa-reddy-k.jpg"
+}, {
+    "Names": "C. Babu",
+    "Designation": "Asst. Professor",
+    "Qualification": "CMOS VLSI Design, Hardware Description Languages (HDL)",
+    "Email": " c_babu@blr.amritaedu",
+    "Research": "M.E",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/babu-c.jpg"
+}, {
+    "Names": "Giriraja C. V.",
+    "Designation": "Asst. Professor",
+    "Qualification": "Signal Processing, Photonics, Communication",
+    "Email": " cv_giriraja@blr.amrita.edu",
+    "Research": "M.E",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/giriraja-c-v.jpg"
+}, {
+    "Names": "K. Jeeva Priya",
+    "Designation": "Asst. Professor",
+    "Qualification": "Signal Processing, Measurement & Instrumentation, Image Processing",
+    "Email": " k_jeevapriya@blr.amrita.edu",
+    "Research": "M.E",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/jeeva-priya.jpg"
+}, {
+    "Names": "R. V. Sanjika Devi",
+    "Designation": "Asst. Professor",
+    "Qualification": "Communication, Networking",
+    "Email": " r_sanjika@blr.amrita.edu",
+    "Research": "M.E",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/sanjika-devi.jpg"
+}, {
+    "Names": "P. Satish Kumar",
+    "Designation": "Asst. Professor",
+    "Qualification": "Very-Large-Scale Integration (VLSI), Analog Design, CMOS, Digital Design",
+    "Email": " p_sathishkumar@blr.amrita.edu",
+    "Research": "M.E",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/p-satish-kumar.jpg"
+}, {
+    "Names": "T. Sreenivasulu",
+    "Designation": "Asst. Professor",
+    "Qualification": "",
+    "Email": " t_srinivasulu@blr.amrita.edu",
+    "Research": "M.E, BE",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/t-srinivasulu.jpg"
+}, {
+    "Names": "Alok Kumar Jha",
+    "Designation": "Asst. Professor",
+    "Qualification": "Photonics, Integrated Optics, MOEMS, Fiber-Optics, Electromagnetics, Light Amplification by Stimulated Emission of Radiation (LASER)",
+    "Email": " alok_jha@blr.amrita.edu",
+    "Research": "M.Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/alok-kumar-jha.jpg"
+}, {
+    "Names": "Anjali B. S.",
+    "Designation": "Asst. Professor",
+    "Qualification": "Instrumentation, Digital Design, Hardware Description Languages (HDL), Field Programmable Gate Array (FPGA)",
+    "Email": " bs_anjali@blr.amrita.edu",
+    "Research": "M.Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/anjali-b-s.jpg"
+}, {
+    "Names": "Ganapathi Hedge",
+    "Designation": "Asst. Professor",
+    "Qualification": "Very-Large-Scale Integration (VLSI) Systems, Computer Algorithms",
+    "Email": " ganapathi_hegde@blr.amrita.edu",
+    "Research": "M.Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/ganapathy.jpg"
+}, {
+    "Names": "Jayasree M. Oli",
+    "Designation": "Asst. Professor",
+    "Qualification": "Microprocessors & Microcontrollers, Computer Networking, Embedded Systems",
+    "Email": " m_jayashree@blr.amrita.edu",
+    "Research": "M.Tech, BE",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/jayasree-m-oli.jpg"
+}, {
+    "Names": "Jeyanthi R.",
+    "Designation": "Asst. Professor",
+    "Qualification": "Process Control, Automation, Data Validation",
+    "Email": " r_jeyanthi@blr.amrita.edu",
+    "Research": "M.Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/jeyanthi-r.jpg"
+}, {
+    "Names": "Kavita Baliger",
+    "Designation": "Asst. Professor",
+    "Qualification": "Wireless Sensors, Image Processing",
+    "Email": " b_kavita@blr.amrita.edu",
+    "Research": "M.Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/kavita-baliger.jpg"
+}, {
+    "Names": "Kavitha N. Pillai",
+    "Designation": "Asst. Professor",
+    "Qualification": "Communication Engineering, Electronic Circuits",
+    "Email": " n_kavithapillai@blr.amrita.edu",
+    "Research": "M.Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/kavitha-n-pillai.jpg"
+}, {
+    "Names": "Kirti S. Pande",
+    "Designation": "Asst. Professor",
+    "Qualification": "Very Large Scale Integration (VLSI) Design, Processor Design",
+    "Email": " sp_kirti@blr.amrita.edu",
+    "Research": "M.Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/kirti-s-pande.jpg"
+}, {
+    "Names": "S. Lalitha",
+    "Designation": "Asst. Professor",
+    "Qualification": "Signal Processing, Image Processing",
+    "Email": " s_lalitha@blr.amrita.edu",
+    "Research": "M.Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/s-lalitha.jpg"
+}, {
+    "Names": "Latha",
+    "Designation": "Asst. Professor",
+    "Qualification": "Digital Signal Processing",
+    "Email": " s_latha@blr.amritaedu",
+    "Research": "M.Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/latha.jpg"
+}, {
+    "Names": "Neeta Mishra",
+    "Designation": "Asst. Professor",
+    "Qualification": "Digital Communication, Wireless Communication, Signal Theory.",
+    "Email": " m_neeta@blr.amrita.edu",
+    "Research": "M.Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/neeta-mishra.jpg"
+}, {
+    "Names": "Nidhi Gangrade",
+    "Designation": "Asst. Professor",
+    "Qualification": "Digital Communication, Wireless Communication",
+    "Email": " g_nidhi@blr.amrita.edu",
+    "Research": "M.Tech, BE",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/nidhi-gangrade.jpg"
+}, {
+    "Names": "Ponni M.",
+    "Designation": "Asst. Professor",
+    "Qualification": "Very-Large-Scale Integration (VLSI)",
+    "Email": " m_ponni@blr.amrita.edu",
+    "Research": "M.Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/ponni-m.jpg"
+}, {
+    "Names": "Priya B. K.",
+    "Designation": "Asst. Professor",
+    "Qualification": "Communication System, Radio Frequency (RF) & Antenna",
+    "Email": " bk_priya@blr.amrita.edu",
+    "Research": "M.Tech, B-Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/priya-b-k.jpg"
+}, {
+    "Names": "Sagar B.",
+    "Designation": "Asst. Professor",
+    "Qualification": "Image Processing, Signals & Systems",
+    "Email": " b_sagar@blr.amrita.edu",
+    "Research": "M.Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/sagar-b.jpg"
+}, {
+    "Names": "Sonali Agrawal",
+    "Designation": "Asst. Professor",
+    "Qualification": "Low Power VLSI Design, Digital Design, Hardware Description Languages (HDL), Digital Signal Processing",
+    "Email": " a_sonali@blr.amrita.edu",
+    "Research": "M.Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/sonali-agrawal.jpg"
+}, {
+    "Names": "Sreeja Kochuvila",
+    "Designation": "Asst. Professor",
+    "Qualification": "Robotics, Control Systems, Signal Processing",
+    "Email": " k_sreeja@blr.amrita.edu",
+    "Research": "M.Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/default_images/avatar.jpg"
+}, {
+    "Names": "R. Sunitha",
+    "Designation": "Asst. Professor",
+    "Qualification": "Communication Systems, Electronic Circuits, Signal Processing",
+    "Email": " r_sunitha@blr.amrita.edu",
+    "Research": "M.Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/sunitha_1.jpg"
+}, {
+    "Names": "Swaminadhan R.",
+    "Designation": "Asst. Professor",
+    "Qualification": "Analog & Digital Integrated Circuit Design",
+    "Email": " r_swaminadhan@blr.amrita.edu",
+    "Research": "M.Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/swaminadhan-r.jpg"
+}, {
+    "Names": "Vignesh V.",
+    "Designation": "Asst. Professor",
+    "Qualification": "Digital Integrated Circuits, Low Power CMOS Design, Microelectronic Devices & Circuits",
+    "Email": " v_vignesh@blr.amrita.edu",
+    "Research": "M.Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/vignesh_0.jpg"
+}, {
+    "Names": "M. Vinodhini",
+    "Designation": "Asst. Professor",
+    "Qualification": "Communication, Networking & Very-Large-Scale Integration (VLSI) Design",
+    "Email": " m_vinodhini@blr.amrita.edu",
+    "Research": "M.Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/vinodhini_0.jpg"
+}, {
+    "Names": "Bhavana V.",
+    "Designation": "Asst. Professor",
+    "Qualification": "",
+    "Email": " v_bhavana@blr.amrita.edu",
+    "Research": "B-Tech",
+    "Image": "https://www.amrita.edu/sites/default/files/faculty_images/bhavana-v.jpg"
+}]
